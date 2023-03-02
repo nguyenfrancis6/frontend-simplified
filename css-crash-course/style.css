@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+}
+
+p{
+  color: red;
+}
+
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+#title{
+  font-weight: bold;
+  color: purple;
+}
+
+#subtitle{
+  color: black;
+}
+
+div {
+  width: 100%;
+  max-width: 200px;
+  background-color: rgba(218, 218, 218, 0.5);
+  border: solid black 1px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: "Roboto", Arial;
+}
+
